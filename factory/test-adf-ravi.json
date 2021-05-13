@@ -1,0 +1,9 @@
+{
+	"name": "test-adf-ravi",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7696225-14b5-46c8-aeb8-1f55ec610afb",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
